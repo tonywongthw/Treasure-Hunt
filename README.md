@@ -1,5 +1,5 @@
 # Treasure Hunt
- An interesting Treasure Hunt simulation built in Java!
+ :moneybag: An interesting Treasure Hunt simulation built in Java!
 
 # Inspiration
 
