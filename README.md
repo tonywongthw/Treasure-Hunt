@@ -9,7 +9,7 @@
 
 # Objects
 
-![Object](https://github.com/tonywongthw/projects/blob/main/screenshots/Screenshot%202022-07-13%20123828.jpg)
+![Object](https://github.com/tonywongthw/projects/blob/main/screenshots/Treasure%20Hunt%20Demo.gif)
 
 a. Zombie : Stationary Entity - Need 3 units of energy to kill
 b. Sandwich : Stationary Entity - Increase 5 units of energy when obtained
