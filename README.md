@@ -1,9 +1,11 @@
 # Treasure Hunt
- An interesting Treasure Hunt simulation built in Java
+ An interesting Treasure Hunt simulation built in Java!
 
 # Inspiration
 
- To simulate a situation where the main character need to obtain enough energy to defeat all zombies and then obtain the treasure
+ To simulate a situation where the main character need to eat sandwiches to obtain enough energy for defeating all zombies, and then obtain the treasure
+
+# Demo
 
 ![Demo](https://github.com/tonywongthw/projects/blob/main/screenshots/Treasure%20Hunt%20Demo.gif)
 
@@ -12,9 +14,13 @@
 ![Object](https://github.com/tonywongthw/projects/blob/main/screenshots/Screenshot%202022-07-13%20123828.jpg)
 
 a. Zombie : Stationary Entity - Need 3 units of energy to kill
+
 b. Sandwich : Stationary Entity - Increase 5 units of energy when obtained
+
 c. Player : Movable Entity - Aim to obtain enough energy to defeat all zombies and then obtain the treasure
+
 d. Treasure : Stationary Entity - Complete the simulation when obtained
+
 e. Bullet : Movable Entity - Cost 3 units of energy to fire within a specific range for killing zombie
 
 # Loading Environment
@@ -30,4 +36,5 @@ Environemnt is loaded via a .csv file inside the "test" folder. It contans coord
 # Cloning and Testing
 
 Clone the repository
+
 Run the main class "ShadowTreasureComplete"
