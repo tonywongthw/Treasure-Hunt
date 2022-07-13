@@ -5,11 +5,11 @@
 
  To simulate a situation where the main character need to obtain enough energy to defeat all zombies and then obtain the treasure
 
-
+![Demo](https://j.gifs.com/z6Ej47.gif)
 
 # Objects
 
-
+![Object](https://github.com/tonywongthw/projects/blob/main/screenshots/Screenshot%202022-07-13%20123828.jpg)
 
 a. Zombie : Stationary Entity - Need 3 units of energy to kill
 b. Sandwich : Stationary Entity - Increase 5 units of energy when obtained
